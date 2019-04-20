@@ -1,2 +1,2 @@
-# book_review_javascript_the_good_parts
+# 도서리뷰를 하며 연습코드를 공유하는 
 [도서리뷰] 더글라스 클락포드의 자바스크립트 핵심가이드
