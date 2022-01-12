@@ -1,6 +1,5 @@
-# 도서리뷰를 하며 연습코드를 공유하는 저장소 
+# 2019 도서리뷰 : 더글라스 클락포드의 자바스크립트 핵심가이드
 [도서리뷰] 더글라스 클락포드의 자바스크립트 핵심가이드
-
 
 ## 목차
 0. [자바스크립트의 좋은 점들](https://docs.google.com/document/d/1OR1bKw-y7YPcxrncC5pNZJ7VWy_ngU0mF7jYC0kHyPQ/edit?usp=sharing)
